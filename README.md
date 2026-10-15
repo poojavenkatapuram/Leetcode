@@ -9,6 +9,6 @@ Profile: [Poojavenkatapuram](https://leetcode.com/u/Poojavenkatapuram/)
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 4 |
-| Medium     | 3 |
+| Medium     | 4 |
 | Hard       | 0 |
-| **Total**  | **7** |
+| **Total**  | **8** |
