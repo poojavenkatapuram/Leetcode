@@ -18,11 +18,12 @@ public:
                 if(nums[i]> nums[pivot]){ 
                     swap(nums[i], nums[pivot]);
                     
-                    reverse(nums.begin()+pivot+1, nums.end());
+                   
                     break;
                 }
                 
             }
+             reverse(nums.begin()+pivot+1, nums.end());
             
 
 
