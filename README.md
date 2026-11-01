@@ -10,5 +10,5 @@ Profile: [Poojavenkatapuram](https://leetcode.com/u/Poojavenkatapuram/)
 |------------|--------|
 | Easy       | 8 |
 | Medium     | 12 |
-| Hard       | 0 |
-| **Total**  | **20** |
+| Hard       | 1 |
+| **Total**  | **21** |
